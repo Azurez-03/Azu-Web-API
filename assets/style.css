@@ -1,10 +1,11 @@
+
 header{
     display: flex;
     justify-content: space-between;
 }
 
 body{
-    background-color: rgb(225, 239, 239);
+    background-color: rgb(180, 205, 205);
     font-family: 'Times New Roman', Times, serif;
     
 }
@@ -20,7 +21,7 @@ p{
 .start-button{
     Background-color: rgb(148, 181, 149);
     border: none;
-    curser: pointer;
+    cursor: pointer;
     font-size: large;
-    color:rgb(0, 0, 0)
+    color:rgb(74, 74, 74)
 }
