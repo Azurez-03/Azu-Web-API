@@ -12,3 +12,8 @@ body{
 p{
     font-size: 23px;
 }
+.main{
+    flex-direction: column;
+    padding: 25px;
+    text-Align: Center;
+}
