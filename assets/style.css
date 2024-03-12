@@ -17,3 +17,10 @@ p{
     padding: 25px;
     text-Align: Center;
 }
+.start-button{
+    Background-color: rgb(148, 181, 149);
+    border: none;
+    curser: pointer;
+    font-size: large;
+    color:rgb(0, 0, 0)
+}
